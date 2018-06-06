@@ -1,0 +1,95 @@
+1504604557544	geckodriver	INFO	geckodriver 0.18.0
+1504604557559	geckodriver	INFO	Listening on 127.0.0.1:45810
+1504604559632	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604632013	geckodriver::marionette	ERROR	Failed to kill browser process
+1504604632132	geckodriver	INFO	geckodriver 0.18.0
+1504604632157	geckodriver	INFO	Listening on 127.0.0.1:46145
+1504604634220	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604635112	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504604636742	Marionette	INFO	Enabled via --marionette
+1504604642161	Marionette	INFO	Listening on port 46151
+1504604642216	Marionette	INFO	Listening on port 46151
+1504604642580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504604642613	Marionette	DEBUG	loaded listener.js
+1504604642639	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504604643636	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504604643636	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504604648699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504604655412	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1504604655794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504604658846	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1463_21083_17001_20719&req=2&csor=1&cb=jQuery1102021085690154902037_1504604647342&_=1504604647344, line 1: TypeError: jQuery1102021085690154902037_1504604647342 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1463_21083_17001_20719&req=2&csor=2&pwd=s&cb=jQuery1102021085690154902037_1504604647342&_=1504604647345, line 1: TypeError: jQuery1102021085690154902037_1504604647342 is not a function
+1504604659420	geckodriver	INFO	geckodriver 0.18.0
+1504604659441	geckodriver	INFO	Listening on 127.0.0.1:46233
+1504604661500	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604662023	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504604663092	Marionette	INFO	Enabled via --marionette
+1504604668645	Marionette	INFO	Listening on port 46239
+1504604668669	Marionette	INFO	Listening on port 46239
+1504604668849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504604668884	Marionette	DEBUG	loaded listener.js
+1504604668911	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504604670647	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504604670648	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504604677048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504604679862	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1504604680332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1460_21096_17001_20928&req=2&csor=1&cb=jQuery110205803439407196495_1504604674898&_=1504604674900, line 1: TypeError: jQuery110205803439407196495_1504604674898 is not a function
+1504604683299	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sh&json=1&p=3&sid=1460_21096_17001_20928&req=2&csor=2&pwd=s&cb=jQuery110205803439407196495_1504604674898&_=1504604674901, line 1: TypeError: jQuery110205803439407196495_1504604674898 is not a function
+1504604750257	geckodriver	INFO	geckodriver 0.18.0
+1504604750277	geckodriver	INFO	Listening on 127.0.0.1:46335
+1504604752964	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604753861	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504604755564	Marionette	INFO	Enabled via --marionette
+1504604763303	Marionette	INFO	Listening on port 46341
+1504604763311	Marionette	INFO	Listening on port 46341
+1504604763431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504604763467	Marionette	DEBUG	loaded listener.js
+1504604763499	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504604764402	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504604764403	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504604767983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504604771191	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=c&json=1&p=3&sid=1424_21081_20718&req=2&csor=1&cb=jQuery110208397927206224697_1504604767464&_=1504604767466, line 1: TypeError: jQuery110208397927206224697_1504604767464 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=ch&json=1&p=3&sid=1424_21081_20718&req=2&csor=2&pwd=c&cb=jQuery110208397927206224697_1504604767464&_=1504604767467, line 1: TypeError: jQuery110208397927206224697_1504604767464 is not a function
+1504604771585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504604771588	Marionette	INFO	New connections will no longer be accepted
+1504604771982	geckodriver	INFO	geckodriver 0.18.0
+1504604772001	geckodriver	INFO	Listening on 127.0.0.1:46411
+1504604774036	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604775756	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504604776596	Marionette	INFO	Enabled via --marionette
+[GPU 4380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504604782136	Marionette	INFO	Listening on port 46420
+1504604782147	Marionette	INFO	Listening on port 46420
+1504604782389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504604782422	Marionette	DEBUG	loaded listener.js
+1504604782449	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504604783614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504604783614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_a70bc15.js, line 22: ReferenceError: c is not defined
+1504604789140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504604791820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1504604792191	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504604794939	Marionette	INFO	New connections will no longer be accepted
+1504604795969	geckodriver	INFO	geckodriver 0.18.0
+1504604795988	geckodriver	INFO	Listening on 127.0.0.1:46522
+1504604798070	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504604798415	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504604799750	Marionette	INFO	Enabled via --marionette
+[GPU 24000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1504604804522	Marionette	INFO	Listening on port 46529
+1504604804535	Marionette	INFO	Listening on port 46529
+1504604805581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504604805612	Marionette	DEBUG	loaded listener.js
+1504604805635	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504604806648	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504604806649	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504604831787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504604869285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1504604869683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504604869686	Marionette	INFO	New connections will no longer be accepted

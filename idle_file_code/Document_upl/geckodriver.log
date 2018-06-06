@@ -1,0 +1,160 @@
+1502787719687	geckodriver	INFO	geckodriver 0.18.0
+1502787719703	geckodriver	INFO	Listening on 127.0.0.1:39366
+1502787721734	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502787727034	Marionette	INFO	Listening on port 39372
+1502787727521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502787814748	Marionette	INFO	Ceased listening
+1502787865828	geckodriver	INFO	geckodriver 0.18.0
+1502787865828	geckodriver	INFO	Listening on 127.0.0.1:39432
+1502787867890	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502787874518	Marionette	INFO	Listening on port 39438
+1502787875330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502789371647	Marionette	INFO	Ceased listening
+0
+1502789358509	geckodriver	INFO	Listening on 127.0.0.1:41425
+1502789360525	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789368002	Marionette	INFO	Listening on port 41431
+1502789369436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502789470335	Marionette	INFO	Ceased listening
+1502789515264	geckodriver	INFO	geckodriver 0.18.0
+1502789515264	geckodriver	INFO	Listening on 127.0.0.1:41489
+1502789517296	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502789524168	Marionette	INFO	Listening on port 41495
+1502789524832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?tcdsp, line 7: TypeError: a is not a function
+1502789602560	Marionette	INFO	Ceased listening
+1502847713299	geckodriver	INFO	geckodriver 0.18.0
+1502847713299	geckodriver	INFO	Listening on 127.0.0.1:43608
+1502847715768	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502847732370	Marionette	INFO	Listening on port 43614
+1502847735108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502847924378	geckodriver	INFO	geckodriver 0.18.0
+1502847924394	geckodriver	INFO	Listening on 127.0.0.1:43916
+1502847926316	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502847932293	Marionette	INFO	Listening on port 43922
+1502847933388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502848525708	Marionette	INFO	Ceased listening
+1502848835321	geckodriver	INFO	geckodriver 0.18.0
+1502848835336	geckodriver	INFO	Listening on 127.0.0.1:44107
+1502848837383	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502848843285	Marionette	INFO	Listening on port 44113
+1502848844327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502849022848	Marionette	INFO	Ceased listening
+1502849704031	geckodriver	INFO	geckodriver 0.18.0
+1502849704031	geckodriver	INFO	Listening on 127.0.0.1:44438
+1502849706078	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502849711881	Marionette	INFO	Listening on port 44444
+1502849712937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502849910537	Marionette	INFO	Ceased listening
+0
+1502849811106	geckodriver	INFO	Listening on 127.0.0.1:44530
+1502849813247	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502849818595	Marionette	INFO	Listening on port 44536
+1502849819410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502849907970	Marionette	INFO	Ceased listening
+1502850035393	geckodriver	INFO	geckodriver 0.18.0
+1502850035409	geckodriver	INFO	Listening on 127.0.0.1:44617
+1502850037441	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850042994	Marionette	INFO	Listening on port 44623
+1502850043472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502850455807	Marionette	INFO	Ceased listening
+1502850457562	geckodriver	INFO	geckodriver 0.18.0
+1502850457562	geckodriver	INFO	Listening on 127.0.0.1:44732
+1502850459624	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850467486	Marionette	INFO	Listening on port 44738
+1502850468418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502850532015	Marionette	INFO	New connections will no longer be accepted
+1502850656195	geckodriver	INFO	geckodriver 0.18.0
+1502850656195	geckodriver	INFO	Listening on 127.0.0.1:44795
+1502850658383	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850663387	Marionette	INFO	Listening on port 44801
+1502850664481	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+observe@resource://gre/modules/AsyncShutdown.jsm:550:9
+addBlocker/moduleBlocker/<@resource://gre/components/nsAsyncShutdown.js:157:15
+Promise@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:390:5
+moduleBlocker@resource://gre/components/nsAsyncShutdown.js:153:29
+trigger@resource://gre/modules/AsyncShutdown.jsm:719:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:866:7
+wait@resource://gre/modules/AsyncShutdown.jsm:850:28
+observe@resource://gre/modules/AsyncShutdown.jsm:533:17
+
+1502850668427	Marionette	INFO	Ceased listening
+1502850681061	geckodriver	INFO	geckodriver 0.18.0
+1502850681076	geckodriver	INFO	Listening on 127.0.0.1:44821
+1502850683108	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850688876	Marionette	INFO	Listening on port 44827
+1502850689948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502850753741	Marionette	INFO	New connections will no longer be accepted
+1502850861599	geckodriver	INFO	geckodriver 0.18.0
+1502850861615	geckodriver	INFO	Listening on 127.0.0.1:44889
+1502850863646	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850870102	Marionette	INFO	Listening on port 44895
+1502850871056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502850934651	Marionette	INFO	New connections will no longer be accepted
+1502850965981	geckodriver	INFO	geckodriver 0.18.0
+1502850965981	geckodriver	INFO	Listening on 127.0.0.1:44960
+1502850968138	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502850974892	Marionette	INFO	Listening on port 44966
+1502850975882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502851039433	Marionette	INFO	New connections will no longer be accepted
+1502851168276	geckodriver	INFO	geckodriver 0.18.0
+1502851168276	geckodriver	INFO	Listening on 127.0.0.1:45024
+1502851170320	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851176017	Marionette	INFO	Listening on port 45030
+1502851177029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502851240710	Marionette	INFO	New connections will no longer be accepted
+1502851634109	geckodriver	INFO	geckodriver 0.18.0
+1502851634109	geckodriver	INFO	Listening on 127.0.0.1:45152
+1502851636141	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851642502	Marionette	INFO	Listening on port 45158
+1502851643540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502851677712	Marionette	INFO	Ceased listening
+1502851690218	geckodriver	INFO	geckodriver 0.18.0
+1502851690218	geckodriver	INFO	Listening on 127.0.0.1:45189
+1502851692250	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851698310	Marionette	INFO	Listening on port 45195
+1502851698947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502851765174	Marionette	INFO	New connections will no longer be accepted
+1502851794330	geckodriver	INFO	geckodriver 0.18.0
+1502851794330	geckodriver	INFO	Listening on 127.0.0.1:45257
+1502851796361	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502851801897	Marionette	INFO	Listening on port 45263
+1502851803214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502851869112	Marionette	INFO	New connections will no longer be accepted
+1502864455800	geckodriver	INFO	geckodriver 0.18.0
+1502864455844	geckodriver	INFO	Listening on 127.0.0.1:3113
+1502864457867	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502864467387	Marionette	INFO	Listening on port 3122
+1502864467869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502864536249	Marionette	INFO	New connections will no longer be accepted

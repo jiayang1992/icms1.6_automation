@@ -1,0 +1,14 @@
+1502872087828	geckodriver	INFO	geckodriver 0.18.0
+1502872087844	geckodriver	INFO	Listening on 127.0.0.1:9121
+1502872089857	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502872097951	Marionette	INFO	Listening on port 9128
+1502872098465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=&req=2&csor=5&pwd=sele&cb=jQuery1102041807922286650356_1502872099996&_=1502872100001, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=&req=2&csor=2&pwd=s&cb=jQuery1102041807922286650356_1502872099996&_=1502872099998, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=&req=2&csor=8&pwd=seleniu&cb=jQuery1102041807922286650356_1502872099996&_=1502872100004, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=&req=2&csor=4&pwd=sel&cb=jQuery1102041807922286650356_1502872099996&_=1502872100000, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=&req=2&csor=6&pwd=selen&cb=jQuery1102041807922286650356_1502872099996&_=1502872100002, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=&req=2&csor=7&pwd=seleni&cb=jQuery1102041807922286650356_1502872099996&_=1502872100003, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=&req=2&csor=3&pwd=se&cb=jQuery1102041807922286650356_1502872099996&_=1502872099999, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=&req=2&csor=1&cb=jQuery1102041807922286650356_1502872099996&_=1502872099997, line 1: TypeError: jQuery1102041807922286650356_1502872099996 is not a function
+1502872109049	Marionette	INFO	New connections will no longer be accepted

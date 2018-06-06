@@ -1,0 +1,36 @@
+1504779966883	geckodriver	INFO	geckodriver 0.18.0
+1504779966899	geckodriver	INFO	Listening on 127.0.0.1:22402
+1504779968961	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504779970910	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1504779971891	Marionette	INFO	Enabled via --marionette
+1504779978712	Marionette	INFO	Listening on port 22413
+1504779979140	Marionette	INFO	Listening on port 22413
+1504779979980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504779980050	Marionette	DEBUG	loaded listener.js
+1504779980328	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504779982656	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504779982656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504779984603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504779990091	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:22521
+1504780152831	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504780153519	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1504780154787	Marionette	INFO	Enabled via --marionette
+1504780159305	Marionette	INFO	Listening on port 22527
+1504780159320	Marionette	INFO	Listening on port 22527
+1504780160186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504780160219	Marionette	DEBUG	loaded listener.js
+1504780160249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504780161407	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504780161407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504780162005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504780162238	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GPU 19028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

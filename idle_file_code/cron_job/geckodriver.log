@@ -1,0 +1,69 @@
+1507691044236	geckodriver	INFO	geckodriver 0.18.0
+1507691044244	geckodriver	INFO	Listening on 127.0.0.1:48489
+1507691046310	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1507691049250	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1507691050064	Marionette	INFO	Enabled via --marionette
+1507691058305	Marionette	INFO	Listening on port 48497
+1507691058382	Marionette	INFO	Listening on port 48497
+1507691058446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507691058494	Marionette	DEBUG	loaded listener.js
+1507691058665	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507691059034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507691059034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507691059754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com//"
+1507691059851	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com//"
+1507691060141	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.baidu.com//"
+1507691060289	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.baidu.com//"
+1507691060289	Marionette	DEBUG	Received DOM event "unload" for "http://www.baidu.com//"
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1507691061827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/s?wd=selenium+webdriver&rsv_bp=0&inputT=40"
+1507691062085	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/s?wd=selenium+webdriver&rsv_bp=0&inputT=40"
+1507691064094	Marionette	INFO	New connections will no longer be accepted
+1507691066154	geckodriver	INFO	geckodriver 0.18.0
+1507691066162	geckodriver	INFO	Listening on 127.0.0.1:48562
+1507691068204	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1507691068534	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1507691069839	Marionette	INFO	Enabled via --marionette
+[Child 2144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507691073638	Marionette	INFO	Listening on port 48571
+1507691073646	Marionette	INFO	Listening on port 48571
+1507691073949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507691073980	Marionette	DEBUG	loaded listener.js
+1507691074003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507691074106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507691074106	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507691074715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com//gaoji/preferences.html"
+1507691074716	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com//gaoji/preferences.html"
+1507691074979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507691077205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507691079930	Marionette	INFO	New connections will no longer be accepted
+1507691080409	geckodriver	INFO	geckodriver 0.18.0
+1507691080413	geckodriver	INFO	Listening on 127.0.0.1:48629
+1507691082448	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1507691082812	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1507691083839	Marionette	INFO	Enabled via --marionette
+[GPU 15304] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507691088778	Marionette	INFO	Listening on port 48636
+1507691088784	Marionette	INFO	Listening on port 48636
+1507691089817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507691089857	Marionette	DEBUG	loaded listener.js
+1507691089881	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507691090002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507691090002	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507691090961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1507691091238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c.youdao.com/www/banner.html"
+1507691091921	Marionette	DEBUG	Received DOM event "pageshow" for "https://c.youdao.com/www/banner.html"
+1507691094580	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+1507691094673	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.youdao.com/"
+1507691094821	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.youdao.com/"
+1507691094821	Marionette	DEBUG	Received DOM event "unload" for "http://www.youdao.com/"
+1507691094952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1507691094952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1507691095246	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691095249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691095251	Marionette	DEBUG	Received DOM event "pageshow" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691095302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691095445	Marionette	DEBUG	Received DOM event "pageshow" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691095505	Marionette	DEBUG	Received DOM event "pageshow" for "http://fanyi.youdao.com/?keyfrom=dict2.index"
+1507691097529	Marionette	INFO	New connections will no longer be accepted

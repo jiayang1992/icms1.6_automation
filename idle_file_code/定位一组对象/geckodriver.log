@@ -1,0 +1,101 @@
+1502264823337	geckodriver	INFO	geckodriver 0.18.0
+1502264823353	geckodriver	INFO	Listening on 127.0.0.1:11970
+1502264825384	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502264929659	Marionette	INFO	Listening on port 11976
+1502264930455	Marionette	INFO	Ceased listening
+:12076
+1502264885031	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502264891867	Marionette	INFO	Listening on port 12085
+1502264892378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502264925500	Marionette	INFO	Ceased listening
+1502264961124	geckodriver	INFO	geckodriver 0.18.0
+1502264961134	geckodriver	INFO	Listening on 127.0.0.1:12207
+1502264963171	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502264970158	Marionette	INFO	Listening on port 12215
+1502264970513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502264985658	Marionette	INFO	Ceased listening
+1502265105006	geckodriver	INFO	geckodriver 0.18.0
+1502265105006	geckodriver	INFO	Listening on 127.0.0.1:12398
+1502265107179	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502265115230	Marionette	INFO	Listening on port 12406
+1502265115703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502265201828	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502265443706	Marionette	INFO	Ceased listening
+0
+1502265415620	geckodriver	INFO	Listening on 127.0.0.1:12809
+1502265417651	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502265446137	Marionette	INFO	Listening on port 12817
+1502265449615	geckodriver	INFO	geckodriver 0.18.0
+1502265449630	geckodriver	INFO	Listening on 127.0.0.1:12902
+1502265451677	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502265458891	Marionette	INFO	Listening on port 12910
+1502265459431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502265548551	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502265657584	Marionette	INFO	Ceased listening
+1502265750389	geckodriver	INFO	geckodriver 0.18.0
+1502265750389	geckodriver	INFO	Listening on 127.0.0.1:13359
+1502265752436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 65: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502265829636	Marionette	INFO	Listening on port 13368
+1502265829663	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502265830542	Marionette	INFO	Ceased listening
+1502265833829	geckodriver	INFO	geckodriver 0.18.0
+1502265833839	geckodriver	INFO	Listening on 127.0.0.1:13565
+1502265836032	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502265842601	Marionette	INFO	Listening on port 13575
+1502265843920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502265874632	Marionette	INFO	Ceased listening
+1502266629361	geckodriver	INFO	geckodriver 0.18.0
+1502266629371	geckodriver	INFO	Listening on 127.0.0.1:16185
+1502266631435	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502266638771	Marionette	INFO	Listening on port 16193
+1502266639687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502266653194	Marionette	INFO	Ceased listening
+1502266688404	geckodriver	INFO	geckodriver 0.18.0
+1502266688414	geckodriver	INFO	Listening on 127.0.0.1:16301
+1502266690484	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502266697512	Marionette	INFO	Listening on port 16308
+1502266699403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502266726444	Marionette	INFO	Ceased listening
+0
+1502266724800	geckodriver	INFO	Listening on 127.0.0.1:16405
+1502266727015	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502266734993	Marionette	INFO	Listening on port 16414
+1502266736082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502266773996	Marionette	INFO	Ceased listening
+1502266776914	geckodriver	INFO	geckodriver 0.18.0
+1502266776925	geckodriver	INFO	Listening on 127.0.0.1:16528
+1502266778962	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502266785874	Marionette	INFO	Listening on port 16535
+1502266786302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502267029617	Marionette	INFO	Ceased listening
+0
+1502266926335	geckodriver	INFO	Listening on 127.0.0.1:16794
+1502266928508	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502266934871	Marionette	INFO	Listening on port 16803
+1502266936198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1502267000337	Marionette	INFO	New connections will no longer be accepted

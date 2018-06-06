@@ -1,0 +1,80 @@
+1502873105791	geckodriver	INFO	geckodriver 0.18.0
+1502873105800	geckodriver	INFO	Listening on 127.0.0.1:9438
+1502873107838	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873116421	Marionette	INFO	Listening on port 9444
+1502873117291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502873307876	Marionette	INFO	Ceased listening
+1502873334165	geckodriver	INFO	geckodriver 0.18.0
+1502873334165	geckodriver	INFO	Listening on 127.0.0.1:10165
+1502873336306	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873342238	Marionette	INFO	Listening on port 10173
+1502873342880	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+observe@resource://gre/modules/AsyncShutdown.jsm:550:9
+addBlocker/moduleBlocker/<@resource://gre/components/nsAsyncShutdown.js:157:15
+Promise@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:390:5
+moduleBlocker@resource://gre/components/nsAsyncShutdown.js:153:29
+trigger@resource://gre/modules/AsyncShutdown.jsm:719:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:866:7
+wait@resource://gre/modules/AsyncShutdown.jsm:850:28
+observe@resource://gre/modules/AsyncShutdown.jsm:533:17
+
+1502873347936	Marionette	INFO	Ceased listening
+1502873365734	geckodriver	INFO	geckodriver 0.18.0
+1502873365734	geckodriver	INFO	Listening on 127.0.0.1:10222
+1502873367765	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873374107	Marionette	INFO	Listening on port 10229
+1502873375185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502873376890	Marionette	INFO	New connections will no longer be accepted
+1502873408912	geckodriver	INFO	geckodriver 0.18.0
+1502873408928	geckodriver	INFO	Listening on 127.0.0.1:10277
+1502873411069	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873418569	Marionette	INFO	Listening on port 10289
+1502873419183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502873430864	Marionette	INFO	Ceased listening
+1502873587520	geckodriver	INFO	geckodriver 0.18.0
+1502873587536	geckodriver	INFO	Listening on 127.0.0.1:10440
+1502873589552	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502873596484	Marionette	INFO	Listening on port 10447
+1502873597455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502873688423	Marionette	INFO	Ceased listening
+1502874794217	geckodriver	INFO	geckodriver 0.18.0
+1502874794233	geckodriver	INFO	Listening on 127.0.0.1:12228
+1502874796436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502874804136	Marionette	INFO	Listening on port 12235
+1502874804614	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502875437931	Marionette	INFO	Ceased listening
+1502875306936	Marionette	INFO	Listening on port 12373
+1502875307456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502875312274	Marionette	INFO	New connections will no longer be accepted
+1502875435664	geckodriver	INFO	geckodriver 0.18.0
+1502875435664	geckodriver	INFO	Listening on 127.0.0.1:12423
+1502875437680	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502875448337	Marionette	INFO	Listening on port 12429
+1502875448836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502875453853	Marionette	INFO	New connections will no longer be accepted
+1502876206158	geckodriver	INFO	geckodriver 0.18.0
+1502876206158	geckodriver	INFO	Listening on 127.0.0.1:13191
+1502876208205	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502876218115	Marionette	INFO	Listening on port 13197
+1502876219193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502876224140	Marionette	INFO	New connections will no longer be accepted
+1502964547964	geckodriver	INFO	geckodriver 0.18.0
+1502964548042	geckodriver	INFO	Listening on 127.0.0.1:20719
+1502964549620	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502964556824	Marionette	INFO	Listening on port 20729
+1502964557343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502964582446	Marionette	INFO	Ceased listening

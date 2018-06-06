@@ -1,0 +1,88 @@
+1502767901496	geckodriver	INFO	geckodriver 0.18.0
+1502767901511	geckodriver	INFO	Listening on 127.0.0.1:28690
+1502767903574	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767909832	Marionette	INFO	Listening on port 28697
+1502767910895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767915899	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767941162	geckodriver	INFO	geckodriver 0.18.0
+1502767941177	geckodriver	INFO	Listening on 127.0.0.1:28730
+1502767943225	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767948989	Marionette	INFO	Listening on port 28736
+1502767950029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767954932	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767964153	geckodriver	INFO	geckodriver 0.18.0
+1502767964153	geckodriver	INFO	Listening on 127.0.0.1:28767
+1502767966372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502767971158	Marionette	INFO	Listening on port 28773
+1502767972312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767980156	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502767994190	geckodriver	INFO	geckodriver 0.18.0
+1502767994190	geckodriver	INFO	Listening on 127.0.0.1:28802
+1502767996221	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768001979	Marionette	INFO	Listening on port 28808
+1502768002994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768010813	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768021736	geckodriver	INFO	geckodriver 0.18.0
+1502768021751	geckodriver	INFO	Listening on 127.0.0.1:28841
+1502768023767	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768029590	Marionette	INFO	Listening on port 28847
+1502768030828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768043737	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768057435	geckodriver	INFO	geckodriver 0.18.0
+1502768057444	geckodriver	INFO	Listening on 127.0.0.1:28882
+1502768059505	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768068077	Marionette	INFO	Listening on port 28888
+1502768068958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768081842	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768096024	geckodriver	INFO	geckodriver 0.18.0
+1502768096034	geckodriver	INFO	Listening on 127.0.0.1:28933
+1502768098306	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768104318	Marionette	INFO	Listening on port 28939
+1502768104756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768117586	Marionette	INFO	New connections will no longer be accepted
+1502768267244	geckodriver	INFO	geckodriver 0.18.0
+1502768267244	geckodriver	INFO	Listening on 127.0.0.1:28974
+1502768269307	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502768275233	Marionette	INFO	Listening on port 28980
+1502768276310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502768281174	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777196126	geckodriver	INFO	geckodriver 0.18.0
+1502777196142	geckodriver	INFO	Listening on 127.0.0.1:29425
+1502777198189	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://gre/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1502777203852	Marionette	INFO	Listening on port 29432
+1502777204073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777208918	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777268135	geckodriver	INFO	geckodriver 0.18.0
+1502777268135	geckodriver	INFO	Listening on 127.0.0.1:29469
+1502777270166	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502777275312	Marionette	INFO	Listening on port 29475
+1502777275710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777280564	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777305137	geckodriver	INFO	geckodriver 0.18.0
+1502777305137	geckodriver	INFO	Listening on 127.0.0.1:29508
+1502777307199	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502777312802	Marionette	INFO	Listening on port 29514
+1502777313328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined
+1502777323139	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: file:///D:/Phyon/pycharm%20code/IDLE_File%E8%BF%90%E8%A1%8Ccode/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95/%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html, line 1: ReferenceError: updateShipping is not defined

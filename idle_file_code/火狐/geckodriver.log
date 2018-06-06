@@ -1,0 +1,1405 @@
+1508137355634	geckodriver	INFO	geckodriver 0.18.0
+1508137355649	geckodriver	INFO	Listening on 127.0.0.1:25597
+1508137357681	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508137359450	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508137360309	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[GPU 90816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508137376178	Marionette	INFO	Listening on port 25604
+1508137376831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508137376842	Marionette	INFO	Listening on port 25604
+1508137376862	Marionette	DEBUG	loaded listener.js
+1508137376981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508137377453	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508137377454	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137392955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137396917	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137397108	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137399733	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137399734	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508137404831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508137404835	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508137404917	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137404932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508137405027	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137405138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137405181	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137405196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508137405361	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137405410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137405664	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137405854	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137405854	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137405996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508137405997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 548: unreachable code after return statement
+1508137406035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137406104	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137406151	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137406169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508137406373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137436404	Marionette	INFO	New connections will no longer be accepted
+1508137536824	geckodriver	INFO	geckodriver 0.18.0
+1508137536839	geckodriver	INFO	Listening on 127.0.0.1:25703
+1508137538839	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508137540774	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508137542341	Marionette	INFO	Enabled via --marionette
+[Child 84516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 84516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508137549264	Marionette	INFO	Listening on port 25709
+1508137549270	Marionette	INFO	Listening on port 25709
+1508137549523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508137549555	Marionette	DEBUG	loaded listener.js
+1508137549582	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508137549787	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508137549788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137552426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137555360	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137555542	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137558148	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137558149	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508137559061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508137559528	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508137559583	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137559599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1508137559799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137559847	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137559863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1508137559870	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508137560024	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137560071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137560114	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript error: http://124.115.106.140:2121/resources/manage/js/jquery.sparkline.min.js, line 4: TypeError: a.body is null
+1508137560498	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137560498	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137560614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1508137560614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 548: unreachable code after return statement
+1508137560779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137560818	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137560885	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137560901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1508137561097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137591131	Marionette	INFO	New connections will no longer be accepted
+1508137721771	geckodriver	INFO	geckodriver 0.18.0
+1508137721786	geckodriver	INFO	Listening on 127.0.0.1:25799
+1508137723818	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508137725664	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508137727278	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1508137731344	Marionette	INFO	Listening on port 25805
+1508137731480	Marionette	INFO	Listening on port 25805
+1508137731858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508137731893	Marionette	DEBUG	loaded listener.js
+1508137731910	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508137732073	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508137732073	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508137753773	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137756129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137767550	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137767696	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137769921	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+1508137769921	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508137776463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508137780263	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508137780331	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137780349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508137780459	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137780543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137780589	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137780622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1508137780712	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137780801	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508137780821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508137781106	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508137781106	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137781252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508137781252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 548: unreachable code after return statement
+1508137782422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137782425	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137782490	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508137782511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1508137782703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508137812717	Marionette	INFO	New connections will no longer be accepted
+1508138151205	geckodriver	INFO	geckodriver 0.18.0
+1508138151220	geckodriver	INFO	Listening on 127.0.0.1:26090
+1508138153168	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508138154236	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508138156861	Marionette	INFO	Enabled via --marionette
+[GPU 95160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138177381	Marionette	INFO	Listening on port 26096
+1508138177388	Marionette	INFO	Listening on port 26096
+[Child 90576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 90576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138177889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508138179758	Marionette	DEBUG	loaded listener.js
+1508138179795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508138179977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508138179978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138181671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138185662	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138185819	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138188765	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138188765	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508138189185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508138189271	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508138189327	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138189345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1508138189429	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508138189542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138189574	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508138189720	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138189721	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508138189875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138189883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1508138189934	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138189986	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138190005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1508138190091	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138190473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138220506	Marionette	INFO	New connections will no longer be accepted
+1508138427822	geckodriver	INFO	geckodriver 0.18.0
+1508138427837	geckodriver	INFO	Listening on 127.0.0.1:26219
+1508138429855	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508138430983	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508138432234	Marionette	INFO	Enabled via --marionette
+[GPU 97576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138438966	Marionette	INFO	Listening on port 26225
+1508138438974	Marionette	INFO	Listening on port 26225
+1508138439513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508138439547	Marionette	DEBUG	loaded listener.js
+1508138439572	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508138439712	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508138439712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138441911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138445261	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138447509	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138448120	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138448121	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508138448745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508138449196	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508138449264	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138449281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508138449408	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138449478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138449534	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript error: http://124.115.106.140:2121/resources/manage/js/jquery.sparkline.min.js, line 4: TypeError: a.body is null
+1508138449752	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138449753	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138450278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508138450299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138450357	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138450407	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138450428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508138450578	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138450631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GPU 97576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508138480672	Marionette	INFO	New connections will no longer be accepted
+1508138774977	geckodriver	INFO	geckodriver 0.18.0
+1508138774992	geckodriver	INFO	Listening on 127.0.0.1:26316
+1508138776864	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508138778072	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508138779516	Marionette	INFO	Enabled via --marionette
+1508138786071	Marionette	INFO	Listening on port 26322
+1508138786081	Marionette	INFO	Listening on port 26322
+1508138786471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508138786501	Marionette	DEBUG	loaded listener.js
+1508138786532	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508138786905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508138786906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138790727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138793585	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138793743	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138795832	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508138795832	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508138797006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508138797154	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508138797289	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138797311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508138797396	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138797503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138797971	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508138798252	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508138798252	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508138798389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138798392	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1508138798439	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138798493	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508138798510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508138798590	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508138798739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508138828761	Marionette	INFO	New connections will no longer be accepted
+1508139079173	geckodriver	INFO	geckodriver 0.18.0
+1508139079184	geckodriver	INFO	Listening on 127.0.0.1:26421
+1508139081275	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508139083789	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508139085536	Marionette	INFO	Enabled via --marionette
+1508139091575	Marionette	INFO	Listening on port 26427
+1508139091580	Marionette	INFO	Listening on port 26427
+1508139091905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508139091937	Marionette	DEBUG	loaded listener.js
+1508139091964	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508139092766	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508139092766	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139108708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139112383	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139112544	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139117070	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139117070	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508139122499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508139122502	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508139122562	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139122581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508139122650	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508139122785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508139122817	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508139123209	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139123210	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139123345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508139123370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139123396	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139123450	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139123468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508139123566	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139123681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+[GPU 103740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 103740] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139153726	Marionette	INFO	New connections will no longer be accepted
+1508139475241	geckodriver	INFO	geckodriver 0.18.0
+1508139475253	geckodriver	INFO	Listening on 127.0.0.1:26585
+1508139477313	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508139478227	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508139479127	Marionette	INFO	Enabled via --marionette
+1508139485473	Marionette	INFO	Listening on port 26592
+1508139485495	Marionette	INFO	Listening on port 26592
+1508139485669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508139485711	Marionette	DEBUG	loaded listener.js
+1508139485861	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508139486050	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508139486050	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139488977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139492806	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139492973	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139495206	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139495207	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508139495765	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508139495801	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508139495856	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139495873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1508139495964	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508139496072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508139496111	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508139496289	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139496289	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139496413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508139496446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139496464	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139496528	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139496547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1508139496643	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139496759	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508139534834	Marionette	INFO	New connections will no longer be accepted
+1508139828319	geckodriver	INFO	geckodriver 0.18.0
+1508139828342	geckodriver	INFO	Listening on 127.0.0.1:26758
+1508139830374	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508139830681	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508139832126	Marionette	INFO	Enabled via --marionette
+[GPU 107332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508139840477	Marionette	INFO	Listening on port 26764
+1508139840482	Marionette	INFO	Listening on port 26764
+1508139840601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508139840656	Marionette	DEBUG	loaded listener.js
+1508139840680	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508139841206	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508139841207	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139843511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139845994	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139847456	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139848436	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508139848437	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508139849323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508139849325	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508139849380	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139849402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508139849474	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508139849595	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508139849630	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508139849859	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508139849859	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139849991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508139850010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139850024	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139850075	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139850093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508139850260	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508139850300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508139880318	Marionette	INFO	New connections will no longer be accepted
+1508141878007	geckodriver	INFO	geckodriver 0.18.0
+1508141878023	geckodriver	INFO	Listening on 127.0.0.1:27886
+1508141880024	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508141882090	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508141885721	Marionette	INFO	Enabled via --marionette
+[GPU 128960] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508141900018	Marionette	INFO	Listening on port 27893
+1508141900019	Marionette	INFO	Listening on port 27893
+1508141900358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508141900388	Marionette	DEBUG	loaded listener.js
+1508141900416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508141900588	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508141900588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508141903410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508141908276	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508141908649	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508141910587	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508141910588	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508141911296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508141911599	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508141911668	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508141911685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508141911775	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://124.115.106.140:2121/manage/user/show, line 212: TypeError: $(...).tabs is not a function
+1508141911892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508141911926	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508141912148	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508141912148	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508141912269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508141912341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508141912352	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508141912428	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508141912445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508141912558	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508141912644	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508141942661	Marionette	INFO	New connections will no longer be accepted
+1508142007671	geckodriver	INFO	geckodriver 0.18.0
+1508142007686	geckodriver	INFO	Listening on 127.0.0.1:27987
+1508142009787	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508142012431	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508142013910	Marionette	INFO	Enabled via --marionette
+1508142019265	Marionette	INFO	Listening on port 27993
+1508142019286	Marionette	INFO	Listening on port 27993
+1508142019496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508142019532	Marionette	DEBUG	loaded listener.js
+1508142019561	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508142019702	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508142019702	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142021508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142024847	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142025009	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142026945	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142026945	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508142027748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508142028967	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508142029025	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508142029045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1508142029209	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508142029265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508142029312	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142029613	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508142029613	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142029732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508142029783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142029856	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142029914	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142029933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1508142030072	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142030126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142060144	Marionette	INFO	New connections will no longer be accepted
+1508142809383	geckodriver	INFO	geckodriver 0.18.0
+1508142809395	geckodriver	INFO	Listening on 127.0.0.1:28336
+1508142811438	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508142812884	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508142814447	Marionette	INFO	Enabled via --marionette
+1508142820093	Marionette	INFO	Listening on port 28342
+1508142820113	Marionette	INFO	Listening on port 28342
+1508142820889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508142820919	Marionette	DEBUG	loaded listener.js
+1508142820950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508142821284	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508142821285	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142828334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142841004	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142841185	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142843487	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508142843488	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508142844086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508142844328	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508142844363	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508142844840	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508142844840	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508142845057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142845286	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142845345	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508142845364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508142845554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508142875572	Marionette	INFO	New connections will no longer be accepted
+1508144255086	geckodriver	INFO	geckodriver 0.18.0
+1508144255098	geckodriver	INFO	Listening on 127.0.0.1:29286
+1508144257064	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508144259353	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508144260697	Marionette	INFO	Enabled via --marionette
+[Child 152052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 152052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508144266861	Marionette	INFO	Listening on port 29293
+1508144266870	Marionette	INFO	Listening on port 29293
+1508144267233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508144267270	Marionette	DEBUG	loaded listener.js
+1508144267298	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508144267475	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508144267475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144270570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144273962	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144276037	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144277319	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144277320	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508144277736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508144277965	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508144278006	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508144278149	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508144278150	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508144278680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144279079	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144279137	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144279159	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508144279288	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144279348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144309365	Marionette	INFO	New connections will no longer be accepted
+1508144777933	geckodriver	INFO	geckodriver 0.18.0
+1508144777949	geckodriver	INFO	Listening on 127.0.0.1:29391
+1508144780083	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508144781682	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508144783275	Marionette	INFO	Enabled via --marionette
+[GPU 153412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 151296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 151296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508144790262	Marionette	INFO	Listening on port 29397
+1508144790271	Marionette	INFO	Listening on port 29397
+1508144790309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508144790340	Marionette	DEBUG	loaded listener.js
+1508144790368	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508144790542	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508144790542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144792717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144795866	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144796019	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144797876	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144797876	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508144798415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508144798440	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508144798476	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508144798704	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508144798705	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508144798856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144798871	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144798925	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144798944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508144799099	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144799148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144829668	Marionette	INFO	New connections will no longer be accepted
+1508144951286	geckodriver	INFO	geckodriver 0.18.0
+1508144951289	geckodriver	INFO	Listening on 127.0.0.1:29481
+1508144953569	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508144954251	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508144955041	Marionette	INFO	Enabled via --marionette
+[Child 153952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 153952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508144961532	Marionette	INFO	Listening on port 29487
+1508144961537	Marionette	INFO	Listening on port 29487
+1508144961595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508144961632	Marionette	DEBUG	loaded listener.js
+1508144961658	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508144961809	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508144961809	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144963987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144966784	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144967040	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144968866	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508144968866	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508144969319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508144969389	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508144969428	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508144969867	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508144969867	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508144970134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144970171	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144970282	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508144970302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508144970406	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508144970499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508145001049	Marionette	INFO	New connections will no longer be accepted
+1508145056000	geckodriver	INFO	geckodriver 0.18.0
+1508145056015	geckodriver	INFO	Listening on 127.0.0.1:29580
+1508145058186	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508145058699	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508145059494	Marionette	INFO	Enabled via --marionette
+[Child 74932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508145068951	Marionette	INFO	Listening on port 29587
+1508145068956	Marionette	INFO	Listening on port 29587
+1508145070056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508145070096	Marionette	DEBUG	loaded listener.js
+1508145070115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508145070541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508145070542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508145074090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145078735	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145078920	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145082002	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145082002	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508145093451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508145093453	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508145093493	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508145094788	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508145094788	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508145099262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145099265	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145099328	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145099346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508145099438	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508145099571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508145129584	Marionette	INFO	New connections will no longer be accepted
+1508145304474	geckodriver	INFO	geckodriver 0.18.0
+1508145304492	geckodriver	INFO	Listening on 127.0.0.1:29774
+1508145306644	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508145307141	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508145308008	Marionette	INFO	Enabled via --marionette
+1508145314587	Marionette	INFO	Listening on port 29780
+1508145314595	Marionette	INFO	Listening on port 29780
+1508145314657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508145314692	Marionette	DEBUG	loaded listener.js
+1508145314719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508145315029	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508145315029	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508145317837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145321640	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145321860	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145323844	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508145323844	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508145324669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508145324779	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508145324828	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508145324971	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508145324971	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508145325207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145325269	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145325324	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145325345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508145325441	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508145325534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:641:3
+sendError@chrome://marionette/content/listener.js:675:3
+dispatch/</<@chrome://marionette/content/listener.js:443:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:925:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[GPU 14752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508146110523	geckodriver	INFO	geckodriver 0.18.0
+1508146110534	geckodriver	INFO	Listening on 127.0.0.1:30141
+1508146112736	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508146113412	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508146114108	Marionette	INFO	Enabled via --marionette
+[GPU 104644] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508146120871	Marionette	INFO	Listening on port 30148
+1508146120898	Marionette	INFO	Listening on port 30148
+1508146121081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508146121113	Marionette	DEBUG	loaded listener.js
+1508146121141	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508146121782	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508146121782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508146133314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508146149648	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508146149821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508146152367	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508146152368	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508146152845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508146152859	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508146152899	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508146153046	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508146153046	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508146153239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508146153292	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508146153340	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508146153358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508146153462	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508146153550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508146184026	Marionette	INFO	New connections will no longer be accepted
+1508147076636	geckodriver	INFO	geckodriver 0.18.0
+1508147076652	geckodriver	INFO	Listening on 127.0.0.1:30310
+1508147078716	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508147079028	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508147079666	Marionette	INFO	Enabled via --marionette
+[GPU 178624] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 171768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 171768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508147085463	Marionette	INFO	Listening on port 30316
+1508147085472	Marionette	INFO	Listening on port 30316
+1508147086220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508147086251	Marionette	DEBUG	loaded listener.js
+1508147086278	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508147087447	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508147087447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147100150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147107660	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147107827	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147110406	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147110407	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508147110809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508147111024	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508147111088	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508147111235	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508147111235	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508147111401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147111412	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147111462	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147111480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508147111647	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147111682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147141723	Marionette	INFO	New connections will no longer be accepted
+1508147163228	geckodriver	INFO	geckodriver 0.18.0
+1508147163244	geckodriver	INFO	Listening on 127.0.0.1:30404
+1508147165276	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508147165567	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508147166307	Marionette	INFO	Enabled via --marionette
+[GPU 174200] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508147172675	Marionette	INFO	Listening on port 30410
+1508147172684	Marionette	INFO	Listening on port 30410
+1508147172829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508147172863	Marionette	DEBUG	loaded listener.js
+1508147172889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508147173057	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508147173058	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147176320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147180474	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147180645	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147183181	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147183182	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508147184044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508147184244	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508147184302	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508147184448	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508147184449	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508147184695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147184753	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147184807	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147184826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508147184904	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147185042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508147215061	Marionette	INFO	New connections will no longer be accepted
+1508147250246	geckodriver	INFO	geckodriver 0.18.0
+1508147250266	geckodriver	INFO	Listening on 127.0.0.1:30491
+1508147252331	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508147252651	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508147254320	Marionette	INFO	Enabled via --marionette
+[GPU 178236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508147259263	Marionette	INFO	Listening on port 30497
+1508147259281	Marionette	INFO	Listening on port 30497
+1508147259861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508147259893	Marionette	DEBUG	loaded listener.js
+1508147259922	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508147260070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508147260070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147265474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147268138	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147270146	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147270659	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147270659	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508147271709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508147271921	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508147271959	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508147272112	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508147272113	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508147272258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147272346	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147272396	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147272419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508147272608	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147272613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147302646	Marionette	INFO	New connections will no longer be accepted
+1508147346494	geckodriver	INFO	geckodriver 0.18.0
+1508147346514	geckodriver	INFO	Listening on 127.0.0.1:30573
+1508147348579	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508147348871	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508147350161	Marionette	INFO	Enabled via --marionette
+[Child 174716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 174716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508147356052	Marionette	INFO	Listening on port 30579
+1508147356062	Marionette	INFO	Listening on port 30579
+1508147356549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508147356584	Marionette	DEBUG	loaded listener.js
+1508147356613	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508147356772	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508147356773	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147360805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147366107	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147367560	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147368452	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147368453	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508147369532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508147371790	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508147371827	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508147372036	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508147372036	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508147372278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147372279	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147372335	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147372355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508147372475	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147372554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508147372558	Marionette	INFO	New connections will no longer be accepted
+1508147385633	geckodriver	INFO	geckodriver 0.18.0
+1508147385633	geckodriver	INFO	Listening on 127.0.0.1:30656
+1508147387657	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508147387971	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508147389452	Marionette	INFO	Enabled via --marionette
+[GPU 132048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508147394304	Marionette	INFO	Listening on port 30662
+1508147394310	Marionette	INFO	Listening on port 30662
+1508147395185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508147395217	Marionette	DEBUG	loaded listener.js
+1508147395246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508147395549	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508147395549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508147406029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147409825	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147409997	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147412705	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508147412706	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508147417341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508147419549	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508147419585	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508147420382	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508147420382	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508147421105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147421107	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147421172	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508147421192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508147421397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508147421403	Marionette	INFO	New connections will no longer be accepted
+1508148593172	geckodriver	INFO	geckodriver 0.18.0
+1508148593172	geckodriver	INFO	Listening on 127.0.0.1:30835
+1508148595221	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508148595533	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508148596950	Marionette	INFO	Enabled via --marionette
+1508148604266	geckodriver	INFO	geckodriver 0.18.0
+1508148604282	geckodriver	INFO	Listening on 127.0.0.1:30862
+1508148606330	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508148607191	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508148607870	Marionette	INFO	Enabled via --marionette
+1508148613742	Marionette	INFO	Listening on port 30870
+1508148613747	Marionette	INFO	Listening on port 30870
+1508148613840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508148613888	Marionette	DEBUG	loaded listener.js
+1508148613918	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508148614212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508148614213	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508148616342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508148618789	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508148618998	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508148620882	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508148620883	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508148621330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508148621463	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508148621529	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508148621735	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508148621735	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508148621992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508148622005	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508148622113	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508148622132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508148622256	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508148622341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 197988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508148718742	Marionette	INFO	New connections will no longer be accepted
+1508149378984	geckodriver	INFO	geckodriver 0.18.0
+1508149379007	geckodriver	INFO	Listening on 127.0.0.1:31454
+1508149381085	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508149381380	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508149382238	Marionette	INFO	Enabled via --marionette
+[GPU 193864] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508149387376	Marionette	INFO	Listening on port 31460
+1508149387385	Marionette	INFO	Listening on port 31460
+1508149387452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508149387484	Marionette	DEBUG	loaded listener.js
+1508149387510	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508149387646	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508149387646	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508149389413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149391786	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149391956	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149394035	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149394035	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508149394383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508149394587	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508149394635	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508149394783	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508149394783	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508149395164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149395212	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149395262	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149395279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508149395485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508149395488	Marionette	INFO	New connections will no longer be accepted
+1508149708463	geckodriver	INFO	geckodriver 0.18.0
+1508149708479	geckodriver	INFO	Listening on 127.0.0.1:31547
+1508149710650	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508149711202	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508149712157	Marionette	INFO	Enabled via --marionette
+[GPU 198216] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508149717382	Marionette	INFO	Listening on port 31553
+1508149717392	Marionette	INFO	Listening on port 31553
+1508149718130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508149718163	Marionette	DEBUG	loaded listener.js
+1508149718198	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508149718334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508149718334	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508149720267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149722774	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149722952	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149725011	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508149725012	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508149725333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508149725557	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508149725618	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508149725844	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508149725844	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508149726057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149726069	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149726128	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149726147	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508149726240	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508149726350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508149752248	Marionette	INFO	New connections will no longer be accepted
+1508150030270	geckodriver	INFO	geckodriver 0.18.0
+1508150030270	geckodriver	INFO	Listening on 127.0.0.1:31640
+1508150032523	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508150033138	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508150033862	Marionette	INFO	Enabled via --marionette
+[GPU 200356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508150039727	Marionette	INFO	Listening on port 31646
+1508150039733	Marionette	INFO	Listening on port 31646
+1508150040005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508150040037	Marionette	DEBUG	loaded listener.js
+1508150040073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508150040716	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508150040716	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150042720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150045059	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150047025	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150048153	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150048154	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508150048904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508150048933	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508150048973	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508150049120	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508150049120	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508150049393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150049628	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150049685	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150049705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508150049794	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150049926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508150056875	Marionette	INFO	New connections will no longer be accepted
+1508150298172	geckodriver	INFO	geckodriver 0.18.0
+1508150298187	geckodriver	INFO	Listening on 127.0.0.1:31725
+1508150300243	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508150300658	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508150302142	Marionette	INFO	Enabled via --marionette
+[GPU 81940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508150308783	Marionette	INFO	Listening on port 31733
+1508150308791	Marionette	INFO	Listening on port 31733
+1508150309899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508150309935	Marionette	DEBUG	loaded listener.js
+1508150309963	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508150310408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508150310408	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150312606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150315665	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150315847	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150317286	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150317286	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508150317757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508150317780	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508150317894	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508150318126	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508150318127	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508150318384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150318411	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150318559	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150318576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508150318664	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150318776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150326377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508150330652	Marionette	INFO	New connections will no longer be accepted
+1508150384822	geckodriver	INFO	geckodriver 0.18.0
+1508150384838	geckodriver	INFO	Listening on 127.0.0.1:31827
+1508150386870	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508150387163	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508150388637	Marionette	INFO	Enabled via --marionette
+[Child 210464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 210464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508150393098	Marionette	INFO	Listening on port 31833
+1508150393106	Marionette	INFO	Listening on port 31833
+1508150393270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508150393305	Marionette	DEBUG	loaded listener.js
+1508150393361	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508150393519	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508150393519	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150396054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150399791	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150399972	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150401640	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150401641	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508150402098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508150402143	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508150402190	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508150402352	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508150402352	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508150402568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150402641	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150402697	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150402716	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508150402908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150418842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508150426980	Marionette	INFO	New connections will no longer be accepted
+1508150546160	geckodriver	INFO	geckodriver 0.18.0
+1508150546175	geckodriver	INFO	Listening on 127.0.0.1:31911
+1508150548347	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508150548747	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508150549489	Marionette	INFO	Enabled via --marionette
+1508150555633	Marionette	INFO	Listening on port 31919
+1508150555638	Marionette	INFO	Listening on port 31919
+1508150555822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508150555856	Marionette	DEBUG	loaded listener.js
+1508150555880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508150556106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508150556106	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150558442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150561714	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150561884	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150563623	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508150563624	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508150564189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508150564191	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508150564233	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508150564416	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508150564416	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508150565262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150565292	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150565402	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150565419	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508150565554	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508150565638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508150566052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+1508150566308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 58020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508150566552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508150566783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508150566787	Marionette	INFO	New connections will no longer be accepted
+1508207064035	geckodriver	INFO	geckodriver 0.18.0
+1508207064098	geckodriver	INFO	Listening on 127.0.0.1:33123
+1508207066114	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508207067777	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508207069005	Marionette	INFO	Enabled via --marionette
+1508207072471	Marionette	INFO	Listening on port 33131
+1508207072483	Marionette	INFO	Listening on port 33131
+1508207072487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508207072517	Marionette	DEBUG	loaded listener.js
+1508207072543	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508207072729	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508207072729	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207074675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207077502	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207077647	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207079458	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207079459	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508207079964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508207080598	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508207080628	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508207080788	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508207080788	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508207081071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207081197	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207081254	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207081275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508207081368	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207081490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207081794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+1508207082044	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 55724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508207082294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207082560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207082569	Marionette	INFO	New connections will no longer be accepted
+1508207093102	geckodriver	INFO	geckodriver 0.18.0
+1508207093102	geckodriver	INFO	Listening on 127.0.0.1:33200
+1508207095196	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508207095491	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508207096764	Marionette	INFO	Enabled via --marionette
+[GPU 50244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 85532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 85532] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508207100828	Marionette	INFO	Listening on port 33206
+1508207100846	Marionette	INFO	Listening on port 33206
+1508207101053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508207101090	Marionette	DEBUG	loaded listener.js
+1508207101114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508207101257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508207101257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207105177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207109799	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207111335	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207112343	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207112345	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508207114593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508207114667	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508207114714	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508207115001	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508207115002	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508207115252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207115337	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207115403	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207115420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508207115586	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207115646	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207115963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+1508207116182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 50244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508207116416	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207116635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207116644	Marionette	INFO	New connections will no longer be accepted
+1508207134072	geckodriver	INFO	geckodriver 0.18.0
+1508207134087	geckodriver	INFO	Listening on 127.0.0.1:33288
+1508207136181	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508207136464	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508207137012	Marionette	INFO	Enabled via --marionette
+1508207141931	Marionette	INFO	Listening on port 33294
+1508207141936	Marionette	INFO	Listening on port 33294
+1508207142036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508207142070	Marionette	DEBUG	loaded listener.js
+1508207142093	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508207142871	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508207142871	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207153340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207164074	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207164236	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207166020	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207166021	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508207167236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508207167238	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508207167275	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508207167483	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508207167483	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508207167967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207168027	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207168077	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207168101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1508207168190	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207168294	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207168573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+1508207168808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 79824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508207169058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207169283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207169293	Marionette	INFO	New connections will no longer be accepted
+1508207188171	geckodriver	INFO	geckodriver 0.18.0
+1508207188171	geckodriver	INFO	Listening on 127.0.0.1:33376
+1508207190234	geckodriver::marionette	INFO	Starting browser D:\path\firefox49\firefox.exe with args ["-marionette"]
+1508207190572	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///D:/path/firefox49/omni.ja!/components/addonManager.js:65
+1508207191369	Marionette	INFO	Enabled via --marionette
+1508207197948	Marionette	INFO	Listening on port 33382
+1508207197976	Marionette	INFO	Listening on port 33382
+1508207198211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508207198242	Marionette	DEBUG	loaded listener.js
+1508207198270	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508207198684	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508207198684	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207202672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207214066	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207214220	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207216152	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+1508207216153	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home%20/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home, line 551: unreachable code after return statement
+1508207216649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home"
+1508207216944	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home"
+1508207216980	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/user/home"
+1508207217205	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home"
+1508207217205	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/user/home"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://124.115.106.140:2121/manage/user/home?isShowAlert=0, line 551: unreachable code after return statement
+1508207217350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207217370	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207217424	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+1508207217443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1508207217530	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/user/home?isShowAlert=0"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207217658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207217919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://124.115.106.140:2121/manage/snVillage/selectList, line 1: ReferenceError: deptChange is not defined
+1508207218154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 56624] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508207218405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207218654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508207218711	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207218803	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207218804	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207218917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207218925	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207218959	Marionette	DEBUG	Received DOM event "beforeunload" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207219058	Marionette	DEBUG	Received DOM event "pagehide" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207219058	Marionette	DEBUG	Received DOM event "unload" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+JavaScript warning: http://124.115.106.140:2121/resources/manage/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508207219167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207219175	Marionette	DEBUG	Received DOM event "pageshow" for "http://124.115.106.140:2121/manage/snVillage/selectList"
+1508207219179	Marionette	INFO	New connections will no longer be accepted
